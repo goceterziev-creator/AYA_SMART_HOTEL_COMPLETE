@@ -1,0 +1,8 @@
+{
+  "name": "aya-smart-hotel",
+  "version": "2.0.0",
+  "description": "\u041f\u044a\u043b\u043d\u0430 AI \u0435\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0437\u0430 \u0445\u043e\u0442\u0435\u043b\u0438",
+  "main": "index.html",
+  "author": "\u0413\u043e\u0446\u0438 & AYA AI",
+  "license": "MIT"
+}

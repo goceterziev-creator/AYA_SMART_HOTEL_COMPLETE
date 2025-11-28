@@ -1,0 +1,62 @@
+/* 📱 MOBILE RESPONSIVE DESIGN */
+@media (max-width: 768px) {
+    .hero {
+        padding: 80px 20px;
+    }
+    
+    .hero h1 {
+        font-size: 2.5em;
+    }
+    
+    .hero h2 {
+        font-size: 1.3em;
+    }
+    
+    .hero p {
+        font-size: 1.1em;
+    }
+    
+    .btn {
+        padding: 15px 25px;
+        font-size: 1em;
+        display: block;
+        margin: 10px auto;
+        width: 80%;
+    }
+    
+    .features-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    
+    .feature-card {
+        padding: 25px 20px;
+    }
+    
+    .status-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+    
+    .status-card {
+        padding: 20px 15px;
+    }
+    
+    .status-value {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 2em;
+    }
+    
+    .section-title {
+        font-size: 1.8em;
+    }
+    
+    .status-grid {
+        grid-template-columns: 1fr;
+    }
+}
